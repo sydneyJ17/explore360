@@ -16,8 +16,11 @@ class MyApp < Sinatra::Base
     erb :results
   end
   get '/about' do
-
 return erb :about
   end
+   get '/travel_hotspot' do
+return erb :travel
+  end
+  
   
 end
