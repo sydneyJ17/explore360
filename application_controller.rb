@@ -17,7 +17,7 @@ class MyApp < Sinatra::Base
   end
   get '/about' do
 
-return "test"
+return erb :about
   end
   
 end
