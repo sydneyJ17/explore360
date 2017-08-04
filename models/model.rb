@@ -6,7 +6,7 @@ def type_of_trip(type, distance, season, temperature)
             if season == "Summer"
                 if temperature == "Warm"
                     answer = "Santorini, Greece"
-                    video_link="youtube.com/video/12345"
+                    video_link = "youtube.com/video/12345"
                 elsif temperature == "Cold"
                     answer = "Bruges, Belguim"
                 end
