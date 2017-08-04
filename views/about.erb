@@ -3,16 +3,68 @@
   <head>
     <meta charset="UTF-8">
     <title>title</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>
+  <img src="https://media.giphy.com/media/xT39D4khxTwmgGRyBa/giphy.gif" alt="Computer man" style="width:1270px;height:500px;" >
+  <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {margin: 0;}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: block;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: skyblue;}
+
+ul.topnav li a.active {background-color: skyblue;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px){
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+}
+</style>
+</head>
+<body>
+
+<ul class="topnav">
+  <li><a class="active" href="#Where2Go">Where2Go</a></li>
+  <li><a href="/travel_hotspot">Travel Hotspot</a></li>
+  <li class="right"><a href="/about">About</a></li>
+</ul>
+
+<div style="padding:0 16px;">
   <body>
-  <h11>Morgan Eggleston</h11>
+  <h17><center>The Team!</center></h17><br>
+  <h16>Our team has researched hundreds of locations around the world retrieving information about their weather, community atmosphere, and best times to travel. We have worked to provide you with the perfect destination for your vacation!</h16><br>
   
-  <h12>Jennifer Yu</h12>
-  
-  <h13>Sydney James</h13>
+  <h13><b><center>Morgan Eggleston</center></b></h13><br>
+  <p1><center>Front End Development</center></p1><br>
+  <h14><b><center>Jennifer Yu</center></b></h14><br>
+  <p2><center>Back End Development</center></p2><br>
+  <h15><b><center>Sydney James</center></b></h15><br>
+  <p3><center>Back End Development</center></p3><br>
 
-
-
+<h18><center>Travel360° was built in less than 3 days from scratch using Ruby, HTML/CSS, Sinatra.</center></h18>
 
   </body>
 </html>

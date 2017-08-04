@@ -6,62 +6,127 @@
 img {
     margin: auto;
 }
-
+body {background-color:#86AEF3   }
 form {
     font-family: sans-serif;
     font-size: 18px;
     color: black;
      text-align: center;
-    background-color: lightgrey
+    background-color: #86AEF3    
 }
 h1 {
     color: black;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     background-color: lightblue;
      text-align: center
 } 
 h2 {
     color: black;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 25px;
      text-align: center;
     background-color: lightpink
 } 
 h3 {
     color: black;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 25px;
      text-align: center;
-    background-color: lightgrey
 } 
 h4 {
     color: black;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 25px;
      text-align: center;
-    background-color: lightgrey
 } 
 h5 {
     color: black;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 25px;
      text-align: center;
-    background-color: lightgrey
 } 
 h6 {
     color: black;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 25px;
      text-align: center;
-    background-color: lightgrey
 } 
 h8 {color: black;
+    font-family: Arial Black, Gadget, sans-serif;
+    font-size: 55px;
+     text-align: center;
+}
+h9 {color: black;
+    font-family: Georgia, serif;
+    font-size: 50px;
+     text-align: center;
+}
+h10 {color: black;
+    font-family: sans-serif;
+    font-size: 35px;
+     text-align: center;
+}
+h11 {color: black;
+    font-family: Georgia, serif;
+    font-size: 50px;
+     text-align: center;
+}
+h12 {color: black;
+    font-family: sans-serif;
+    font-size: 35px;
+     text-align: center;
+}
+h13 {color: black;
+    font-family: Georgia, serif;
+    font-size: 35px;
+     text-align: center;
+}
+h14 {color: black;
+    font-family: Georgia, serif;
+    font-size: 35px;
+     text-align: center;
+}
+h15 {color: black;
+    font-family: Georgia, serif;
+    font-size: 35px;
+     text-align: center;
+}
+h16 {color: black;
+    font-family: sans-serif;
+    font-size: 25px;
+     text-align: center;
+}
+h17 {color: black;
+    font-family: Arial Black, Gadget, sans-serif;
+    font-size: 50px;
+     text-align: center;
+}
+h18 {color: black;
+    font-family: sans-serif;
+    font-size: 30px;
+     text-align: center;
+}
+h19{font-size:55px} 
+h20{font-size:55px} 
+
+p1  {color: black;
     font-family: sans-serif;
     font-size: 20px;
      text-align: center;
-    /*background-color: lightgrey*/
 }
+p2  {color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+     text-align: center;
+}
+p3  {color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+     text-align: center;
+}
+
+
 </style>
 </head>
 <body>
